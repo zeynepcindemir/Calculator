@@ -1,1 +1,1 @@
-# Calculator Project for the "Object-Oriented Design and Programming" course
+# Calculator/Object-Oriented Design and Programming Course Project
